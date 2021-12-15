@@ -1,6 +1,7 @@
 # Tips-MachineLearning-App
-## A ml GUI that predicts a waiter's tip in respect to certain variables
-## API for conversion : https://www.xe.com/currencyconverter/
+## A ML GUI that predicts a waiter's tip in respect to certain variables
+### 
+### API for conversion of currency : https://www.xe.com/currencyconverter/
 #
 # ![Screenshot (52)~2](https://user-images.githubusercontent.com/73120937/146124514-cdefda78-22c9-41e7-a742-0db105500d4d.png)
 #
