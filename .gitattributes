@@ -1,0 +1,4 @@
+*.ipynb linguist-detectable=false
+public/libs/* linguist-vendored
+scot-ui/public/libs/ linguist-vendored
+docs/* linguist-documentation
